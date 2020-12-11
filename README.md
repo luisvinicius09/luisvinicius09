@@ -1,26 +1,45 @@
-### Hi there 👋
-
 <center>
   
 ![](image-readme.png)
 
+I like experimenting with new technologies, building small projects, always learn more. :books:
+
+Here's a list of things I currently keep myself busy with:
+
+- 💻 Studying at **[Microverse](https://microver.com)**
+<!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
+- 🛠 Freelance projects
+
+- 🌱 I’m currently learning Node and Ruby :diamonds:
+
+<br><br>
+
 </center>
 
+<details>
+ <summary>Some other facts about me</summary>
+  <br>
+
+  - I don't live without music :musical_note:
+  - My passion for photography is waiting for a camera...
+  - LET'S PLAY SOME CHESS? or any other game?
+  
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=luisvinicius09&show_icons=true&theme=midnight-purple)
+  <br><br>
+</details>
+
+<hr>
+
+<p align="center">
+  <i>Let's connect and chat! Open to anything.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/luisvinicius09" alt="Twitter"><img src=""></a>
+    <a href="https://www.linkedin.com/in/luis_vinicius/" alt="Linkedin"><img src=""></a>
+    <a href="luisvinicius0906@gmail.com" alt="Contact me"><img src=""></a>
+<!--     <a href="https://jayehernandez.com" alt="My site"><img src=""></a> -->
+  </p>
+</p>
 
 
-
-<!--
-**luisvinicius09/luisvinicius09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![](footer-readme.svg)
