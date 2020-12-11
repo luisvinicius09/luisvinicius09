@@ -2,13 +2,13 @@
   
 ![](image-readme.png)
 
-I like experimenting with new technologies, building small projects, always learn more. :books:
+I like experimenting with new technologies, building small projects, and always learn more. :books:
 
 Here's a list of things I currently keep myself busy with:
 
-- 💻 Studying at **[Microverse](https://microver.com)**
-- 🛠 Freelance projects
-- 🌱 I’m currently learning Node and Ruby :diamonds:
+- 💻 Studying at **[Microverse](https://microverse.com)**
+- 🛠 Freelance projects.
+- 🌱 I’m currently learning Node and Ruby.
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
 
 <br>
@@ -19,8 +19,8 @@ Here's a list of things I currently keep myself busy with:
   <br>
 
   - I don't live without music :musical_note:
-  - My passion for photography is waiting for a camera...
-  - LET'S PLAY SOME CHESS? or any other game?
+  - My passion for photography is waiting for a camera... :camera_flash:
+  - LET'S PLAY SOME CHESS? or any other game? :chess_pawn:
   
   ![My github stats](https://github-readme-stats.vercel.app/api?username=luisvinicius09&show_icons=true&theme=midnight-purple)
   <br><br>
