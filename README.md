@@ -8,7 +8,7 @@ Here's a list of things I currently keep myself busy with:
 
 - 💻 Studying at **[Microverse](https://microverse.com)**
 - 🛠 Freelance projects.
-- 🌱 I’m currently learning Node and Ruby.
+- 🌱 Learning Node and Ruby.
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
 
 <br>
@@ -32,9 +32,9 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything.</i>
 
   <p align="center">
-    <a href="https://twitter.com/luisvinicius09" alt="Twitter"><img src=""></a>
-    <a href="https://www.linkedin.com/in/luis_vinicius/" alt="Linkedin"><img src=""></a>
-    <a href="luisvinicius0906@gmail.com" alt="Contact me"><img src=""></a>
+    <a href="https://twitter.com/luisvinicius09" alt="Twitter"><img src="twitter.png"></a>
+    <a href="https://www.linkedin.com/in/luis_vinicius/" alt="Linkedin"><img src="linkedin.png"></a>
+    <a href="luisvinicius0906@gmail.com" alt="Contact me"><img src="email.png"></a>
 <!--     <a href="https://jayehernandez.com" alt="My site"><img src=""></a> -->
   </p>
 </p>
