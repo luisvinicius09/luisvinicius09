@@ -33,8 +33,8 @@ Here's a list of things I currently keep myself busy with:
 
   <p align="center">
     <a href="https://twitter.com/luisvinicius09" alt="Twitter"><img src="twitter.png"></a>
-    <a href="https://www.linkedin.com/in/luis_vinicius/" alt="Linkedin"><img src="linkedin.png"></a>
-    <a href="luisvinicius0906@gmail.com" alt="Contact me"><img src="email.png"></a>
+    <a href="https://www.linkedin.com/in/luis-vinicius/" alt="Linkedin"><img src="linkedin.png"></a>
+    <a href="mailto:luisvinicius0906@gmail.com" alt="Contact me"><img src="email.png"></a>
 <!--     <a href="https://jayehernandez.com" alt="My site"><img src=""></a> -->
   </p>
 </p>
