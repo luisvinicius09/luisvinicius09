@@ -1,6 +1,6 @@
 <center>
   
-![](../image-readme.png)
+![](image-readme.png)
 
 I like experimenting with new technologies, building small projects, and always learn more. :books:
 
@@ -40,4 +40,4 @@ Here's a list of things I currently keep myself busy with:
 </p>
 
 
-![](../footer-readme.svg)
+![](footer-readme.svg)
