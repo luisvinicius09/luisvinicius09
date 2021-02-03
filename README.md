@@ -8,7 +8,7 @@ Here's a list of things I currently keep myself busy with:
 
 - 💻 Studying at **[Microverse](https://microverse.com)**
 - 🛠 Freelance projects.
-- 🌱 Learning Node and Ruby.
+- 🌱 Learning NextJS and Rails.
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
 
 <br>
