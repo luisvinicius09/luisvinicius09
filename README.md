@@ -20,7 +20,6 @@ Here's a list of things I currently keep myself busy with:
 
   - I don't live without music :musical_note:
   - My passion for photography is waiting for a camera... :camera_flash:
-  - LET'S PLAY SOME CHESS? or any other game? :chess_pawn:
   
   ![My github stats](https://github-readme-stats.vercel.app/api?username=luisvinicius09&show_icons=true&theme=midnight-purple)
   <br><br>
