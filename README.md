@@ -20,7 +20,7 @@ Here's a list of things I currently keep myself busy with:
 
   - I don't live without music :musical_note:
   - My passion for photography is waiting for a camera... :camera_flash:
-  - Spending my free grinding on WOW.
+  - Having in Apex recently.
   
   ![My github stats](https://github-readme-stats.vercel.app/api?username=luisvinicius09&show_icons=true&theme=midnight-purple)
   <br><br>
