@@ -29,8 +29,8 @@ Here's a list of things I currently keep myself busy with:
 <hr>
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything.</i>
-
+  <i>Let's connect and chat! Open to anything.</i></br>
+  <i align="center">luisvinicius0906@gmail.com</i>
   <p align="center">
    <!-- <a href="https://twitter.com/luisvinicius09" alt="Twitter"><img src="twitter.png"></a> -->
     <a href="https://www.linkedin.com/in/luis-vinicius/" alt="Linkedin"><img src="linkedin.png"></a>
