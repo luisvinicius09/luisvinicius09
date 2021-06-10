@@ -6,7 +6,7 @@ I like experimenting with new technologies, building small projects, and always 
 
 Here's a list of things I currently keep myself busy with:
   
-- 🛠 Working in [converte.me](https://converte.me).
+- 🛠 Internship in [converte.me](https://converte.me).
 - 💻 Studying at **[Microverse](https://microverse.com)**
 - 🌱 Building the structure of my React knowledge.
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
