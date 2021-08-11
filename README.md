@@ -5,9 +5,9 @@
 I like experimenting with new technologies, building small projects, and always learn more. :books:
 
 Here's a list of things I currently keep myself busy with:
-  
-- 🛠 Internship in [converte.me](https://converte.me).
+
 <!-- - 💻 Studying at **[Microverse](https://microverse.com)** -->
+- 🛠 Internship in [converte.me](https://converte.me).
 - 🌱 Doing some adventures in React Native.
 - 👷‍♂️ Learning TypeORM, TypeScript and Dependency Injection.
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
