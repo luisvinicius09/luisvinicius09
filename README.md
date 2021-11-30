@@ -7,9 +7,9 @@ I like experimenting with new technologies, building small projects, and always 
 Here's a list of things I currently keep myself busy with:
 
 <!-- - 💻 Studying at **[Microverse](https://microverse.com)** -->
-- 🛠 Internship @[converte.me](https://converte.me).
+- 🛠 Software Developer @[converte.me](https://converte.me).
 - 🌱 Doing some adventures in React Native.
-- 👷‍♂️ Learning TypeORM, TypeScript and Dependency Injection.
+- 👷‍♂️ Improving React, React Native and NodeJS knowledge.
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
 
 <br>
@@ -21,7 +21,6 @@ Here's a list of things I currently keep myself busy with:
 
   - I don't live without music :musical_note:
   - My passion for photography is waiting for a camera... :camera_flash:
-  - Having fun in Apex recently.
   
   ![My github stats](https://github-readme-stats.vercel.app/api?username=luisvinicius09&show_icons=true&theme=midnight-purple)
   <br><br>
