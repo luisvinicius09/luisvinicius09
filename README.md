@@ -7,9 +7,9 @@ I like experimenting with new technologies, building small projects, and always 
 Here's a list of things I currently keep myself busy with:
 
 <!-- - 💻 Studying at **[Microverse](https://microverse.com)** -->
-- 🛠 Software Developer @[converte.me](https://converte.me).
-- 🌱 Doing some adventures in React Native.
-- 👷‍♂️ Improving React, React Native and NodeJS knowledge.
+- 🛠 Software Developer @ ?.
+- 🌱 Having fun on side projects.
+- 👷‍♂️ Adventuring on Code Testing.
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
 
 <br>
