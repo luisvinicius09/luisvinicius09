@@ -8,8 +8,9 @@ Here's a list of things I currently keep myself busy with:
 
 <!-- - 💻 Studying at **[Microverse](https://microverse.com)** -->
 - 🛠 Software Developer @ ?.
-- 🌱 Having fun on side projects.
-- 👷‍♂️ Adventuring on Code Testing.
+- 🌱 Building a charging plataform.
+- 📖 Studying Data Structures and Algorythms.
+- 👷‍♂️ Exploring new things I was afraid to try out before, like websockets, vue.js and angular.
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
 
 <br>
