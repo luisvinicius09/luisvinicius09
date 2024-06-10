@@ -9,7 +9,7 @@ Here's a list of things I currently keep myself busy with:
 <!-- - 💻 Studying at **[Microverse](https://microverse.com)** -->
 - 🛠 Software Developer @ ?.
 - 🌱 Looking for inspirations.
-- 👷‍♂️ Exploring GoLang.
+- 👷‍♂️ Exploring GoLang and Redis.
 - 📖 Mastering Data Structures and Algorythms.
 <!-- - 👷‍♂️ Exploring new things I was afraid to try out before, like websockets, vue.js and angular. -->
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
