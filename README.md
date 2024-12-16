@@ -7,10 +7,10 @@ I like experimenting with new technologies, building small projects, and always 
 Here's a list of things I currently keep myself busy with:
 
 <!-- - 💻 Studying at **[Microverse](https://microverse.com)** -->
-- 🛠 Software Developer @ ?.
+- 🛠 Software Developer @Gaio DataOS.
 - 🌱 Looking for inspirations.
 - 👷‍♂️ Exploring GoLang and Redis.
-- 📖 Mastering Data Structures and Algorythms.
+<!-- - 📖 Mastering Data Structures and Algorythms. -->
 <!-- - 👷‍♂️ Exploring new things I was afraid to try out before, like websockets, vue.js and angular. -->
 <!-- - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**. -->
 
@@ -22,7 +22,7 @@ Here's a list of things I currently keep myself busy with:
   <br>
 
   - I don't live without music :musical_note:
-  - My passion for photography is waiting for a camera... :camera_flash:
+  <!-- - My passion for photography is waiting for a camera... :camera_flash: -->
   
   ![My github stats](https://github-readme-stats.vercel.app/api?username=luisvinicius09&show_icons=true&theme=midnight-purple)
   <br><br>
